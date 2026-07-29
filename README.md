@@ -1,6 +1,6 @@
 # DecoBot - Rule-Based Python Chatbot
 
-A lightweight, rule-based conversational agent built in Python for **DecodeLabs**. **DecoBot** matches user inputs against a dictionary-backed knowledge base to provide instant automated responses.
+A lightweight, rule-based conversational agent built in Python. **DecoBot** matches user inputs against a dictionary-backed knowledge base to provide instant automated responses.
 
 ---
 
